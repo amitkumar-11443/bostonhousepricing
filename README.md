@@ -27,7 +27,14 @@ git config --global user.email "{username}" # Populate the user name if configur
 ```
 Git Action 
 ```
-git add requirements.txt  # Ex: To add "requirements.txt" file
+git add requirements.txt  # Ex: To add "requirements.txt" file for pushing one file
+git add . to #push all the files
+
+git status # to check 
+
+git commit -m "commit message"  # "commit message" example pushing xyz file
+
+git push <remote> <branch>   # Example: git push origin main
 ```
 
 
