@@ -5,6 +5,7 @@ numpy
 matplotlib
 ipykernel
 pickle4
+gunicorn
 
 
 
